@@ -1,4 +1,4 @@
-# Deploy-DjangoProject-on-apache
+# Deploying a django project on apache
 deploying the django project on linux apache server using following steps 
 
 step 1 : Copy the project & add into var/www/html/yourprojectfolder
